@@ -1,0 +1,4 @@
+android:text="Sign Up"
+android:onClick="signUp"
+
+//this is for the button sign in, it didnt have an onclick method
